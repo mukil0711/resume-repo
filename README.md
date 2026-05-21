@@ -1,4 +1,3 @@
 ## Live Demo
 
-[Open App]:
-https://mukil0711.github.io/resume-repo/
+[Live App](https://mukil0711.github.io/resume-repo/)
